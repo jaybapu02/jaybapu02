@@ -31,13 +31,13 @@
 ## 🛠️ Technology Stack
 
 ### 👨‍💻 Programming Languages
-C | Java | Python | JavaScript
+C | Java | Python 
 
 ### 🎨 Frontend Development
-HTML | CSS | Bootstrap
+HTML | CSS | Bootstrap | Streamlit
 
 ### 🧩 Backend Development
-Django | Flask | SQLite
+Django | FastAPI | Flask | SQLite
 
 ### 🤖 AI & Machine Learning
 Machine Learning | Deep Learning | NLP | Keras | TensorFlow | Generative AI
